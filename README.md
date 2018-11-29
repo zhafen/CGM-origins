@@ -4,7 +4,7 @@ This repository contains [online interactive visualizations of the CGM](zhafen.g
 
 When you first start the visualization you can select a simulation and redshift you would like to view. The simulations available were created as part of the [FIRE project](https://fire.northwestern.edu). Two redshifts are available per simulation: `lowz` and `highz` corresponding to z=0.25 and z=2 respectively.
 
-The loaded visualization will display ~1e5 particles sampled out to within the virial radius, as described in Hafen et al. 2018. Each particle is colored according to their origin:
+The loaded visualization will display ~1e5 particles at the specified redshift and sampled out to within the virial radius, as described in Hafen et al. 2018. Each particle is colored according to their origin:
 
 1. IGM Accretion (blue) - material that has either never been inside a galaxy or inside a galaxy only a short time.
 2. Wind (green) - material that was ejected from the central galaxy.
